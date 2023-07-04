@@ -1,4 +1,4 @@
 def palindrome(word):
-    return word==word[::-1]
+    return word.lower()==word.lower()[::-1]
 
-print(palindrome("kajqak"))
+print(palindrome("Potop"))
