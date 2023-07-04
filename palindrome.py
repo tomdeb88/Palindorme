@@ -1,1 +1,1 @@
-#palindrome
+a=1
